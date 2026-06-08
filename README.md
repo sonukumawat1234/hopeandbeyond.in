@@ -10,7 +10,6 @@ The website was designed and developed using Framer to provide a modern, respons
 
 ---
 
-## About the Project
 
 This website was designed and developed to provide:
 
